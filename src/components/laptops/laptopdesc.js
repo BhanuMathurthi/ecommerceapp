@@ -1,0 +1,17 @@
+import React from "react";
+import LaptopRating from "./laptoprating";
+
+export default function LaptopDescription({ data }) {
+  return (
+    <div>
+      <h5>{data.heading} </h5>
+      <LaptopRating data={data} />
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[0]} </li>
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[1]} </li>
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[2]} </li>
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[3]} </li>
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[4]} </li>
+      <li className="desc" style={{ fontSize: "14px" }}> {data.description[5]} </li>
+    </div>
+  );
+}

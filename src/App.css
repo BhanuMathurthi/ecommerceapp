@@ -1,0 +1,13 @@
+li {
+  list-style: none; 
+}
+
+
+
+.desc::before {
+  content: "."; 
+  color: #D3D3D3; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 1em;
+}

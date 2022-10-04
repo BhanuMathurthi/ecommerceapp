@@ -1,0 +1,221 @@
+{
+  "mobiles": [
+    {
+      "id": 1,
+      "heading": "realme C31 (Light Silver, 32 GB)  (3 GB RAM)",
+      "imgURL": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/2/9/c/-original-imaghzfgbgyafbgq.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/fac5b54d4468a86e.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+        " 16.59 cm (6.53 inch) HD+ Display ",
+        "  13MP Rear Camera | 5MP Front Camera",
+        "5000 mAh Battery",
+        "MediaTek Helio G25 Processor",
+        "6 Months"
+      ],
+      "originalPrice": 20000,
+      "discountPrice": 14999,
+
+      "rating": ["4.1", "49 Ratings", "11 Reviews"]
+    },
+    {
+      "id": 2,
+      "heading": "Xiaomi 11i 5G (Pacific Pearl, 128 GB)",
+      "imgURL": "https://rukminim1.flixcart.com/image/312/312/l4fxh8w0/mobile/l/l/4/-original-imagfc56zazhvbfq.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/04ee91ee11ceeda2.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB ",
+        "16.59 cm (6.53 inch) HD+ Display",
+        "20MP Rear Camera | 10MP Front Camera",
+        "6000 mAh Battery",
+        "Helio G25 Processor",
+        "1 year "
+      ],
+      "originalPrice": 14999,
+      "discountPrice": 10199,
+
+      "rating": ["4.3", "78 Ratings", "15 Reviews"]
+    },
+    {
+      "id": 3,
+      "heading": "Redmi Note 9 Pro (Glacier White, 128 GB)",
+      "imgURL": "https://rukminim1.flixcart.com/image/312/312/l4ln8nk0/mobile/f/6/a/-original-imagfggrbywzk8r6.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/flap/3376/560/image/75a15c3e19c3f7de.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "14.52 cm (5.6 inch) HD+ Display",
+        "18MP Rear Camera | 10MP Front Camera",
+        "4000 mAh Battery",
+        "Helio G25 Processor",
+        "6 Months "
+      ],
+      "originalPrice": 19999,
+      "discountPrice": 15999,
+
+      "rating": ["4.6", "149 Ratings", "101 Reviews"]
+    },
+    {
+      "id": 4,
+      "heading": "REDMI 10A (Sea Blue, 64 GB)",
+      "imgURL": "https://rukminim1.flixcart.com/image/312/312/l4fxh8w0/mobile/o/q/j/-original-imagfc55exgt8eey.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/04ee91ee11ceeda2.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "4 GB RAM  64 GB ROM  Expandable Upto 1 TB",
+        "16.33 cm (6.43 inch) HD+ Display",
+        "50MP Rear Camera | 16MP Front Camera",
+        "6000 mAh Battery",
+        "Helio G25 Processor",
+        "12 Months"
+      ],
+
+      "originalPrice": 21999,
+      "discountPrice": 14499,
+
+      "rating": ["4.2", "249 Ratings", "1245 Reviews"]
+    }
+  ],
+
+  "laptops": [
+    {
+      "id": 1,
+      "heading": "acer Predator Helios 300 Core i9 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) PH315-55/ PH315-55-99Z6 Gaming Laptop  (15.6 Inch, Abyssal Black)",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/y/e/o/ph315-55-gaming-laptop-acer-original-imaghffqychub2fr.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/fac5b54d4468a86e.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "Intel Core i9 Processor (12th Gen)",
+        " 16 GB DDR5 RAM ",
+        "  64 bit Windows 11 Operating System",
+        "1 TB SSD",
+        "39.62 cm (15.6 Inch) Display",
+        "1 Year International Travelers Warranty (ITW)"
+      ],
+      "originalPrice": 179990,
+      "discountPrice": 134990,
+
+      "rating": ["4.1", "49 Ratings", "11 Reviews"]
+    },
+    {
+      "id": 2,
+      "heading": "acer Nitro 5 Ryzen 5 Hexa Core AMD R5-5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) AN515-45/ AN515-45-R2M1 Gaming Laptop  (15.6 Inch, Shale Black, 2.2 KG)",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/y/t/u/-original-imaghhe6ttguxzkq.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/04ee91ee11ceeda2.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "AMD Ryzen 5 Hexa Core Processor ",
+        "8 GB DDR4 RAM",
+        "64 bit Windows 11 Operating System",
+        "512 GB SSD",
+        "39.62 cm (15.6 Inch) Display",
+        "1 Year International Travelers Warranty (ITW)"
+      ],
+      "originalPrice": 92999,
+      "discountPrice": 66990,
+
+      "rating": ["4.3", "78 Ratings", "15 Reviews"]
+    },
+    {
+      "id": 3,
+      "heading": "Lenovo IdeaPad Core i3 10th Gen - (4 GB/256 GB SSD/Windows 11 Home) 15IIL05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.85 kg)",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/flap/3376/560/image/75a15c3e19c3f7de.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "Intel Celeron Dual Core Processor",
+        "8 GB DDR4 RAM",
+        "64 bit Windows 11 Operating System",
+        "256 GB SSD",
+        "39.62 cm (15.6 Inch) Display",
+        "1 Year Onsite Warranty "
+      ],
+      "originalPrice": 82490,
+      "discountPrice": 59490,
+
+      "rating": ["4.6", "149 Ratings", "101 Reviews"]
+    },
+    {
+      "id": 4,
+      "heading": "Infinix INBook X1 Neo Series Celeron Quad Core - (8 GB/256 GB SSD/Windows 11 Home) XL22 Thin and Light...",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/computer/h/g/l/inbook-x1-neo-thin-and-light-laptop-infinix-original-imagg49gbqxuhfha.jpeg?q=70",
+      "sliderImg": " https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/04ee91ee11ceeda2.jpg?q=50",
+      "mobileShowCase": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+      "description": [
+        "Intel Celeron Quad Core Processor",
+        "8 GB LPDDR4X RAM",
+        "64 bit Windows 11 Operating System",
+        "256 GB SSD",
+        "35.56 cm (14 inch) Display",
+        "1 Year Onsite Warrantys"
+      ],
+
+      "originalPrice": 74990,
+      "discountPrice": 43990,
+
+      "rating": ["4.2", "249 Ratings", "1245 Reviews"]
+    }
+  ],
+
+  "Tvs": [
+    {
+      "id": 1,
+      "heading": "Coocaa Frameless 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With 3 Years Warranty",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/xif0q/television/0/m/p/-original-imaggfyzymngpbfu.jpeg?q=70",
+      "description": [
+        "Operating System: Google TV",
+        " Ultra HD (4K) 3840 x 2160 Pixels ",
+        "  3 Years Warranty on Product (Offer Valid Till 30 - Oct - 2022)"
+      ],
+      "originalPrice": 99999,
+      "discountPrice": 51999,
+
+      "rating": ["4.1", "49 Ratings", "11 Reviews"]
+    },
+    {
+      "id": 2,
+      "heading": "Vu GloLED 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with DJ Subwoofer 104W",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/xif0q/television/m/l/n/55gloled-vu-original-imaghzmnzdfzqkgt.jpeg?q=70",
+      "description": [
+        "Operating System: Google TV ",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "1 Year Domestic Warranty"
+      ],
+      "originalPrice": 95000,
+      "discountPrice": 85000,
+
+      "rating": ["4.3", "78 Ratings", "15 Reviews"]
+    },
+    {
+      "id": 3,
+      "heading": "NOKIA 165 cm (65 inch) Ultra HD 4K LED Smart Android TV with Sound by Onkyo and Dolby Atmos",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/ku1k4280/television/z/v/a/65uhdadndt8p-nokia-original-imag79brjvfgfden.jpeg?q=70",
+      "description": [
+        "Operating System: Android",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "1 Year Warranty on Product"
+      ],
+      "originalPrice": 79999,
+      "discountPrice": 62999,
+
+      "rating": ["4.6", "149 Ratings", "101 Reviews"]
+    },
+    {
+      "id": 4,
+      "heading": "LG UQ7500 164 cm (65 inch) Ultra HD (4K) LED Smart WebOS TV 2022 Edition",
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/xif0q/television/n/h/y/-original-imagg24zpbk2h7tx.jpeg?q=70",
+      "description": [
+        "Operating System: WebOS",
+        "Ultra HD (4K) 3840 x 2160 Pixel",
+        "1 Year LG India Comprehensive Warranty and additional 1 year Warranty is applicable on Panel/Module from the date of purchase."
+      ],
+
+      "originalPrice": 125990,
+      "discountPrice": 100990,
+
+      "rating": ["4.2", "249 Ratings", "1245 Reviews"]
+    }
+  ]
+}
